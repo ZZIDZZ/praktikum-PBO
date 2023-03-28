@@ -8,7 +8,7 @@ import org.bangundatar.*;;
 
 public class MainPoligon {
     public static void main(String[] args){
-		PersegiPanjang persegi = new PersegiPanjang(10.1);
+		BujurSangkar persegi = new BujurSangkar(10.1);
 		Segitiga segitiga = new Segitiga(2, 4.5);
 		persegi.printInfo();
 		segitiga.printInfo();
