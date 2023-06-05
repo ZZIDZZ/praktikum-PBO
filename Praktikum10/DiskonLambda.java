@@ -1,3 +1,8 @@
+// Nama file: DiskonLambda.java
+// Penulis  : Zidan Rafindra Utomo
+// NIM      : 24060121130051
+// Deskripsi: Mengimplementasikan lambda pada interface IDiskon
+
 interface IDiskon {
     public double hitungDiskon(double harga);
 }

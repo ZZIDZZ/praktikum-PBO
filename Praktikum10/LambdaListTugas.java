@@ -1,3 +1,7 @@
+// Nama file: LambdaListTugas.java
+// Penulis  : Zidan Rafindra Utomo
+// NIM      : 24060121130051
+// Deskripsi: Menggunakan lambda untuk menampilkan elemen dari objek hashmap
 import java.util.*;
 
 public class LambdaListTugas {

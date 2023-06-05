@@ -1,3 +1,8 @@
+// Nama file: LambdaList.java
+// Penulis  : Zidan Rafindra Utomo
+// NIM      : 24060121130051
+// Deskripsi: Contoh penggunaan lambda pada ArrayList
+
 import java.util.ArrayList;
 
 public class LambdaList {
